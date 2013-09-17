@@ -6,3 +6,5 @@ The program reproduces Fig. 6(top) from this paper (file "traub.png"). However, 
 instead of 30 nA used in the paper. The program creates a two column "traub.dat" file, ready to be plotted. 
 
 Program uses boost::odeint library for numerical integration
+
+Comments: gwilanowski@ibib.waw.pl
